@@ -11,8 +11,6 @@
 I’m an Electronics and Communication Engineering graduate with nearly 3 years of experience in industrial automation and robotics. Recently, I transitioned into backend web development, focusing on building scalable and maintainable web applications.
 
 - 🔧 Former KUKA Robot Programmer at Ford Otosan (via Gravity Robotics)  
-- 🌱 Currently learning and building projects with:
-  - `C#`, `ASP.NET Core MVC`, `PostgreSQL`, `Git`  
 - 🎓 Attending Patika.dev's Back-End Development Bootcamp  
 - 🧠 Passionate about problem solving, automation, and backend systems  
 
