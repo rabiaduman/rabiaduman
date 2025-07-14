@@ -21,9 +21,9 @@ I’m an Electronics and Communication Engineering graduate with nearly 3 years 
 ### 📫 Contact Me
 
 <p align="left" style="display: flex; gap: 20px; max-width: 200px;">
-  <a href="mailto:rbiaduman@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<a href="mailto:rbiaduman@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
   <a href="https://linkedin.com/in/rabia-duman" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
